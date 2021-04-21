@@ -36,7 +36,7 @@ public class Main {
                         index = index + 5;
                     }
 
-                    if (bok1 <= 0 || bok2 <= 0 || bok3 <= 0 || bok4 <= 0 || kat <= 0) {          //dodatnie argumenty
+                    if (bok1 <= 0 || bok2 <= 0 || bok3 <= 0 || bok4 <= 0 || kat <= 0) {
                         System.out.println("NIEPOPRAWNE DANE");
                         break;
                     }
